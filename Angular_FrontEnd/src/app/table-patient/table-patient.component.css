@@ -1,0 +1,15 @@
+.imgCm {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:50px;
+}
+
+.wrappe {
+    width: 100%-270px;
+    margin-left: 270px;
+    margin-right:10px; 
+}
+.navbar {
+    background-color: #0275d7;
+}
